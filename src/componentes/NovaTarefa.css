@@ -1,0 +1,9 @@
+.container_nova_tarefa {
+    border: 3px solid #111;
+    border-radius: 15px;
+    z-index: 3;
+    position: fixed;
+    background-color: #eee;
+    left: 40%;
+    top: 20%;
+}
